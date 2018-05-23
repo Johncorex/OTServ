@@ -1,0 +1,2 @@
+Por padrão as torres possuem uma vida de "10000" considerada muito baixa 
+para alguns servidores por este motivo é aconselhável que você altere todas as vidas.

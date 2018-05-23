@@ -1,0 +1,22 @@
+=====================================================
+CREATE TABLE IF NOT EXISTS `dtt_players` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `pid` bigint(20) NOT NULL,
+  `team` int(5) NOT NULL,
+  `ip` bigint(50) NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `id` (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=1;
+=====================================================
+CREATE TABLE IF NOT EXISTS `dtt_results` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `frags_blue` int(11) NOT NULL,
+  `frags_red` int(11) NOT NULL,
+  `towers_blue` int(11) NOT NULL,
+  `towers_red` int(11) NOT NULL,
+  `data` varchar(255) NOT NULL,
+  `hora` varchar(255) NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `id` (`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=1;
+=====================================================

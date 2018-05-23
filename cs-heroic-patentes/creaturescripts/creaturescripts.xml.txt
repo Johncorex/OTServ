@@ -1,0 +1,4 @@
+<!-- Sistema - Heroic Patentes (Desenvolvido por ChaitoSoft.com)-->
+<event type="kill" name="armyKill" event="script" value="army.lua"/>	
+<event type="look" name="armyLook" event="script" value="army.lua"/>  	
+<event type="login" name="armyLogin" event="script" value="army.lua"/>

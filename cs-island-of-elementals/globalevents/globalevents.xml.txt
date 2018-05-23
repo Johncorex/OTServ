@@ -1,0 +1,4 @@
+<!-- Evento - Island of Elementals (Desenvolvido por ChaitoSoft.com)-->
+<globalevent name="OPENIOE" time="12:28:00" event="script" value="IOE.lua"/>
+	
+

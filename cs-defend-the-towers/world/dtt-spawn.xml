@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+  <spawn centerx="965" centery="986" centerz="6" radius="1">
+    <monster name="Toad" x="0" y="0" z="6" spawntime="60"/>
+    <monster name="Azure Frog" x="-1" y="1" z="6" spawntime="60"/>
+    <monster name="Azure Frog" x="1" y="1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="976" centery="989" centerz="6" radius="1">
+    <monster name="Slime" x="0" y="0" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="956" centery="995" centerz="6" radius="1">
+    <monster name="Red Butterfly" x="1" y="-1" z="6" spawntime="60"/>
+    <monster name="Butterfly" x="-1" y="1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="986" centery="998" centerz="6" radius="1">
+    <monster name="Wisp" x="-1" y="1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="960" centery="1002" centerz="6" radius="1">
+    <monster name="Carniphila" x="0" y="0" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="982" centery="1004" centerz="6" radius="1">
+    <monster name="Spit Nettle" x="0" y="0" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="959" centery="1016" centerz="6" radius="1">
+    <monster name="Spit Nettle" x="0" y="0" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="982" centery="1018" centerz="6" radius="1">
+    <monster name="Carniphila" x="0" y="0" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="954" centery="1021" centerz="6" radius="1">
+    <monster name="Wisp" x="-1" y="0" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="986" centery="1025" centerz="6" radius="1">
+    <monster name="Red Butterfly" x="-1" y="0" z="6" spawntime="60"/>
+    <monster name="Red Butterfly" x="0" y="0" z="6" spawntime="32512"/>
+    <monster name="Red Butterfly" x="1" y="0" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="964" centery="1032" centerz="6" radius="1">
+    <monster name="Slime" x="-1" y="-1" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="976" centery="1033" centerz="6" radius="1">
+    <monster name="Azure Frog" x="-1" y="0" z="6" spawntime="60"/>
+    <monster name="Azure Frog" x="1" y="0" z="6" spawntime="60"/>
+    <monster name="Toad" x="0" y="1" z="6" spawntime="60"/>
+  </spawn>
+</spawns>

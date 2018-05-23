@@ -1,0 +1,1 @@
+Por padrão os buffs dão 30% da respectiva funcionalidade da vocação, exemplo "druid" recebe 30% a mais de magic level com o buff. Para alterar basta abrir o script da magia.

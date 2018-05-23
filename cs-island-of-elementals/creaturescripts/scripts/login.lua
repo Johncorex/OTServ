@@ -1,0 +1,2 @@
+
+registerCreatureEvent(cid, "IOE")

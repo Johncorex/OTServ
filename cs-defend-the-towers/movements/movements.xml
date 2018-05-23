@@ -1,0 +1,2 @@
+	<!-- Defend the Towers (ChaitoSoft - Desenvolvedores Open Tibia) -->
+	<movevent type="StepIn" actionid="9801-9804" event="script" value="DTT.lua"/>

@@ -1,0 +1,14 @@
+
+	<!-- Defend the Towers (ChaitoSoft - Desenvolvedores Open Tibia) -->
+	<monster name="red supreme tower" file="DTT/red supreme tower.xml"/>
+	<monster name="blue supreme tower" file="DTT/blue supreme tower.xml"/>
+	<monster name="red top tower" file="DTT/red top tower.xml"/>
+	<monster name="blue top tower" file="DTT/blue top tower.xml"/>
+	<monster name="blue middle tower" file="DTT/blue middle tower.xml"/>
+	<monster name="red middle tower" file="DTT/red middle tower.xml"/>
+	<monster name="blue bottom tower" file="DTT/blue bottom tower.xml"/>
+	<monster name="red bottom tower" file="DTT/red bottom tower.xml"/>
+	<monster name="serpent of jungle" file="DTT/serpent of jungle.xml"/>
+	<monster name="spider of jungle" file="DTT/spider of jungle.xml"/>
+
+	

@@ -1,0 +1,17 @@
+	<!-- Spells Buff-->
+	<instant name="Wizard Buff" words="wizard buff" lvl="8" mana="200" prem="0" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="dtt/wizard buff.lua">
+		<vocation id="1"/>
+		<vocation id="5"/>
+	</instant>
+	<instant name="Magician Buff" words="magician buff" lvl="8" mana="200" prem="0" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="dtt/magician buff.lua">
+		<vocation id="2"/>
+		<vocation id="6"/>
+	</instant>
+	<instant name="Archer Buff" words="archer buff" lvl="8" mana="200" prem="0" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="dtt/archer buff.lua">
+		<vocation id="3"/>
+		<vocation id="7"/>
+	</instant>
+	<instant name="Warrior Buff" words="warrior buff" lvl="8" mana="200" prem="0" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="dtt/warrior buff.lua">
+		<vocation id="4"/>
+		<vocation id="8"/>
+	</instant>

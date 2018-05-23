@@ -1,0 +1,3 @@
+<!-- Evento - Island of Elementals (Desenvolvido por ChaitoSoft.com)-->
+<event type="death" name="IOE" event="script" value="IOE.lua"/> 
+

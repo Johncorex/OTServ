@@ -1,0 +1,3 @@
+ERROS:
+
+Geralmente irão aparecer erros quando o evento abrir e fechar, ele tentará remover todos items e monstros da arena para que funcione corretamente o sistema. Não se preocupe são apenas avisos dizendo que ele não encontrou o que deveria remover é normal.

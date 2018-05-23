@@ -1,0 +1,3 @@
+<!-- Evento - Island of Elementals (Desenvolvido por ChaitoSoft.com)-->
+<movevent type="StepIn" uniqueid="5550-5556" event="script" value="IOE.lua"/>
+

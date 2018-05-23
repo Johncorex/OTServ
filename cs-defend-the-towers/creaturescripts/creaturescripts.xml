@@ -1,0 +1,9 @@
+
+	<!-- Defend the Towers (ChaitoSoft - Desenvolvedores Open Tibia) -->
+	<event type="death" name="dttDeath" event="script" value="DTT.lua"/> 
+	<event type="PrepareDeath" name="dttPrepare" event="script" value="DTT.lua"/>
+	<event type="statschange" name="dttStats" event="script" value="DTT.lua"/>
+	<event type="outfit" name="dttOutfit" event="script" value="DTT.lua"/>
+	<event type="login" name="dttLogin" event="script" value="DTT.lua"/>
+	<event type="combat" name="dttCombat" event="script" value="DTT.lua"/>	
+	

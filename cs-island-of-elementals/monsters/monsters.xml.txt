@@ -1,0 +1,6 @@
+<!-- Evento - Island of Elementals (Desenvolvido por ChaitoSoft.com)-->
+<monster name="Island Fire" file="IOE/island fire.xml"/>
+<monster name="Island Ice" file="IOE/island ice.xml"/>
+<monster name="Island Earth" file="IOE/island earth.xml"/>
+<monster name="Island Energy" file="IOE/island energy.xml"/>
+<monster name="Island Death" file="IOE/island death.xml"/>
