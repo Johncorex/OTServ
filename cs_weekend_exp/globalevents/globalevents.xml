@@ -1,0 +1,2 @@
+	<globalevent name="weekend_exp" interval="55000" event="script" value="weekend_exp.lua"/>
+	

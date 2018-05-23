@@ -1,0 +1,3 @@
+
+	<!-- Sistema - Weekend Exp Event (Desenvolvido por ChaitoSoft.com) -->
+	<event type="kill" name="weekend_exp" event="script" value="weekend_exp.lua"/>
